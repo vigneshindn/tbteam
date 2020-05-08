@@ -1,7 +1,7 @@
-$ export ARM_CLIENT_ID="b320ea1f-f0bf-40fb-bdad-7b61f25dd2ec"
-$ export ARM_CLIENT_SECRET="JKW-bu.x.-5_b~.9y9dsjkv19oZ2~_P9P4"
-$ export ARM_SUBSCRIPTION_ID="3424939c-b075-4d29-b9ab-0677db4cd682"
-$ export ARM_TENANT_ID="91007f6f-321c-4d78-9b4d-cb25ec162cf2"
+$ export ARM_CLIENT_ID="00000000000000000000000000000000"
+$ export ARM_CLIENT_SECRET="00000000000000000000000000000000"
+$ export ARM_SUBSCRIPTION_ID="00000000000000000000000000000000"
+$ export ARM_TENANT_ID="00000000000000000000000000000000"
 
 
 https://www.terraform.io/docs/providers/azurerm/guides/service_principal_client_secret.html
